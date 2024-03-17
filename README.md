@@ -17,3 +17,12 @@ SearchPilot is designed to streamline the process of finding information within 
 ## Getting Started
 
 1. Clone the repository:
+   ```bash
+    https://github.com/mask-shakill/search-pilot-fullstack.git
+   ```
+## Installation Packges 
+```python
+npm install bcrypt
+npm install mongodb
+npm install mongoose
+npm install next-auth
